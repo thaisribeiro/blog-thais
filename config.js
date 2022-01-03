@@ -19,13 +19,13 @@ module.exports = {
   bio: ``,
   author: `Oi, sou a Thais`,
   githubUrl: 'https://github.com/thaisribeiro/blog-thais',
-  siteUrl: 'https://thais-ribeiro-blog.netlify.com/',
+  siteUrl: 'https://thaisplicando.netlify.app/',
   social: {
     twitter: 'thaisplicandoo',
     medium: '@thaisplicando',
     facebook: '',
     github: '',
-    linkedin: 'https://www.linkedin.com/in/thaisribeiron/',
+    linkedin: 'thaisribeiron',
     instagram: 'thaisplicandoo',
   },
 }
