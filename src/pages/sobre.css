@@ -1,0 +1,19 @@
+.sobre {
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    flex-direction: column;
+}
+
+.sobre-corpo {
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    flex-direction: column;
+}

@@ -1,0 +1,39 @@
+.blog-listing {
+  display: block;
+  /* margin-top: 2em;
+  margin-bottom: 2em; */
+  text-decoration: none;
+}
+
+.blog-listing p {
+  margin-top: 1rem;
+  font-size: 18px;
+}
+
+.blog-listing h1 {
+  margin-bottom: 1rem;
+}
+
+.item-home {
+  width: 100%;
+  position: relative;
+  z-index: 3;
+}
+
+.item-home-menu {
+  width: 100%;
+  position: static;
+  z-index: 10;
+}
+
+.item-footer {
+  position: static;
+  z-index: 1;
+  background-color: #E1C340
+}
+
+@media (max-width: 1024px) {
+  .blog-listing {
+    padding: 0.8rem;
+  }
+}

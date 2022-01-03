@@ -1,0 +1,90 @@
+.menu-header {
+    position: static;
+    z-index: 10;
+}
+
+.header-blog {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.cabecalho {
+    width: 100%;
+    max-width: 100%;
+    height: 250px;
+    margin: 0 auto;
+    margin-bottom: 0.2em;
+    position: relative;
+    z-index: 1;
+}
+
+.cabecalho .overlay {
+    background: #53565A;
+    opacity: .60;
+}
+
+.overlay {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 250px;
+    top: 0;
+    left: 0;
+}
+
+.header-blog .overlay-posts {
+    background: #53565A;
+    opacity: .70;
+}
+
+.overlay-posts {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 255px;
+    top: 0;
+    left: 0;
+}
+
+.description-blog {
+    position: relative;
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    width: 55%;
+    height: 55%;
+    border-bottom-right-radius: 26px;
+    border-top-right-radius: 26px;
+    border-top-left-radius: 26px;
+}
+
+.description-blog h1 {
+    line-height: 65px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.description-blog h1 a {
+    text-decoration: none;
+    font-size: xx-large;
+    color: #E1C340;
+    margin-right: 7px;
+}
+
+@media (max-width: 1024px) {
+    .description-blog {
+        width: 100%;
+    }
+    
+    .description-blog h1 {
+        line-height: 40px;
+        text-align: center;
+        color: #fff;
+        font-size: 29px;
+    }
+}

@@ -1,0 +1,227 @@
+/* .chat-column {
+    height: 100%;
+    padding: 0.8675rem 0 1.625rem 0;
+    margin: auto;
+    margin-left: 7.5rem;
+    background-color: #e5ddd5;
+    text-align: left;
+    max-width: 60rem;
+    font-weight: 500;
+    min-width: 40rem;
+    border-bottom-right-radius: 7.25rem;
+    border-top-right-radius: 4.25rem;
+    border-top-left-radius: 4.25rem;
+    border: 8px solid #E1C340;
+} */
+
+.chat-column {
+    position: absolute;
+    right: 14.5rem;
+    bottom: 20.5rem;
+    width: 40rem;
+    padding: 0.8675rem 12px 1.625rem 0;
+    background-color: #e5ddd5;
+    text-align: left;
+    max-width: 60rem;
+    font-weight: 500;
+    min-width: 20rem;
+    border-bottom-left-radius: 7.25rem;
+    border-top-right-radius: 4.25rem;
+    border-top-left-radius: 4.25rem;
+    border: 8px solid #E1C340;
+}
+
+#chat {
+    margin: 0.8rem;
+    max-height: 36.9rem;
+    height: 36.9rem;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 90%;
+    /*novo*/
+}
+
+#chat::-webkit-scrollbar {
+    width: 10px;
+    background: transparent
+}
+
+#chat::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+#chat::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: transparent;
+}
+
+.message-inner {
+    opacity: 0;
+    opacity: 1;
+    margin-top: 0.9375rem;
+}
+
+.from-user {
+    text-align: right;
+}
+
+.from-user .message-inner {
+    position: relative;
+    font-size: 1rem;
+    color: #fff;
+    letter-spacing: 0.015rem;
+    line-height: 1.3125rem;
+    background: #ffffff;
+    border-radius: 1.25rem;
+    border-bottom-right-radius: 0;
+    text-align: left;
+    display: inline-block;
+    margin-left: 0.5rem;
+    min-width: 2.5rem;
+}
+
+.from-user .message-inner p {
+    margin: 0.3125rem;
+    padding: 0 0.9375rem;
+    font-size: 15px;
+    color: #323232;
+}
+
+.from-user .message-inner:before, .from-user .message-inner:after {
+    content: "";
+    position: absolute;
+}
+
+.from-user .message-inner:before {
+    z-index: -2;
+    bottom: -0.375rem;
+    right: 0;
+    height: 0.375rem;
+    width: 0.5rem;
+    background: #e1c340;
+}
+
+.from-user .message-inner:after {
+    z-index: -1;
+    bottom: -0.5rem;
+    right: 0;
+    height: 0.5rem;
+    width: 0.5rem;
+    background: #fff;
+    border-top-right-radius: 1.25rem;
+}
+
+.from-watson .message-inner {
+    position: relative;
+    border-radius: 1.5625rem;
+    font-size: 1rem;
+    color: #323232;
+    letter-spacing: 0.015rem;
+    line-height: 1.3125rem;
+}
+
+.from-watson p {
+    margin: 0.3125rem;
+    padding: 0 1.25rem;
+}
+
+.from-watson p:before {
+    content: "";
+    background: #5fcc5d;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 2;
+    left: 0.4375rem;
+    width: 0.3125rem;
+    height: 1.3125rem;
+    line-height: 1.3125rem;
+}
+
+.from-watson p {
+    font-size: 15px;
+    color: #323232;
+}
+
+#textInput {
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 1rem;
+    color: #323232;
+    letter-spacing: 0.015rem;
+    line-height: 1.3125rem;
+    height: 2.5rem;
+    width: 100%;
+    padding-left: 0.125rem;
+    margin-bottom: -0.125rem;
+    overflow: auto;
+}
+
+/* .inputOutline {
+    display: block;
+    border-top: 0.0625rem solid #aeaeae;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    width: 90%
+} */
+
+.inputOutline {
+    display: block;
+    border-top: 0.0625rem solid #aeaeae;
+    margin-left: 3.5rem;
+    margin-right: 0.5rem;
+    width: 90%
+}
+
+.inputOutline input {
+    width: 100%;
+    height: 20px;
+}
+
+.options-dialog {
+    display: flex;
+    flex-direction: column;
+    line-height: 0.2;
+}
+
+.input-option {
+    background-color: #e1c340;
+    display: inline-flex;
+    cursor: pointer;
+    color: black;
+    font-size: 14px;
+    padding: 15px 10px;
+    text-decoration: none;
+    width: 80%;
+    margin-left: 1.5rem;
+    margin-top: 5px;
+}
+
+@media only screen and (max-width: 1000px) {
+    html {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    html {
+        font-size: 14px;
+    }
+    /* .chat-column {
+        padding-top: 4rem;
+    } */
+    .chat-column {
+        position: absolute;
+        right: 0.5rem;
+        bottom: 4.5rem;
+        width: 22.5rem;
+    }
+    .inputOutline {
+        display: block;
+        border-top: 0.0625rem solid #aeaeae;
+        margin-left: 2.5rem;
+        margin-right: 0.5rem;
+        bottom: 0.6rem;
+        position: relative;
+    }
+}

@@ -1,0 +1,227 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.c8468bb4560c09f935fd.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-407fe62976dc5310c43e.js
+  Cache-Control: public, max-age=31536000, immutable
+/commons-cf144f5912a5da243630.js
+  Cache-Control: public, max-age=31536000, immutable
+/3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js
+  Cache-Control: public, max-age=31536000, immutable
+/4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-blog-post-js-decbacdd991a52dad900.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-b68bd8f8cbdd8689d550.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blogs-js-04ab52da6818ad974675.js
+  Cache-Control: public, max-age=31536000, immutable
+/b1272f83-8ac2880fe79ab74eb859.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-js-0cdb185e27ad63f30fe2.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-sobre-js-de979bebdcb929eb3fda.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-b26ce9208a1ca99e7253.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-999a01e9e4c894cffffe.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-e43d14c71b147ab8f1be.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/dicas-truques-python/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-decbacdd991a52dad900.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/dicas-truques-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/converter-pdf-em-audiobook/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-decbacdd991a52dad900.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/converter-pdf-em-audiobook/page-data.json>; rel=preload; as=fetch; crossorigin
+/chica-assistente-virtual-mineira-graciosa/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-decbacdd991a52dad900.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/chica-assistente-virtual-mineira-graciosa/page-data.json>; rel=preload; as=fetch; crossorigin
+/vamos-converter-um-texto-em-escrita-a-mao-usando-python/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-decbacdd991a52dad900.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/vamos-converter-um-texto-em-escrita-a-mao-usando-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/como-criar-um-chatbot-usando-aprendizado-profundo-e-python/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-decbacdd991a52dad900.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/como-criar-um-chatbot-usando-aprendizado-profundo-e-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/um-jeito-facil-de-fazer-e-jogar-snake-usando-python/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-decbacdd991a52dad900.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/um-jeito-facil-de-fazer-e-jogar-snake-usando-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/arquitetura-de-software:definicao-ou-conceito/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-decbacdd991a52dad900.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/arquitetura-de-software:definicao-ou-conceito/page-data.json>; rel=preload; as=fetch; crossorigin
+/ melhor-do-node.js:pega-ou-passa/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-decbacdd991a52dad900.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/ melhor-do-node.js:pega-ou-passa/page-data.json>; rel=preload; as=fetch; crossorigin
+/voce-ja-se-perguntou-como-o-javascript-funciona-por-dentro-dos-motores-+-v8-a-menina-dos-olhos./
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-decbacdd991a52dad900.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/voce-ja-se-perguntou-como-o-javascript-funciona-por-dentro-dos-motores-+-v8-a-menina-dos-olhos./page-data.json>; rel=preload; as=fetch; crossorigin
+/voce-ja-se-perguntou-como-o-javascript-funciona-eventloop-filas-e-programacao-assincrona/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-decbacdd991a52dad900.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/voce-ja-se-perguntou-como-o-javascript-funciona-eventloop-filas-e-programacao-assincrona/page-data.json>; rel=preload; as=fetch; crossorigin
+/voce-ja-se-perguntou-como-o-javascript-funciona-call-stack-e-visao-geral-do-mecanismo./
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-decbacdd991a52dad900.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/voce-ja-se-perguntou-como-o-javascript-funciona-call-stack-e-visao-geral-do-mecanismo./page-data.json>; rel=preload; as=fetch; crossorigin
+/404/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-b68bd8f8cbdd8689d550.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/blogs/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </component---src-pages-blogs-js-04ab52da6818ad974675.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blogs/page-data.json>; rel=preload; as=fetch; crossorigin
+/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </b1272f83-8ac2880fe79ab74eb859.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-0cdb185e27ad63f30fe2.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/sobre/
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </3febc42052facae538db6d006c5ecb9e290fd451-04d827c0856601235678.js>; rel=preload; as=script
+  Link: </4f62f2062fb1666bac251d4d437936f510f39521-3049c2d319875b7c114d.js>; rel=preload; as=script
+  Link: </component---src-pages-sobre-js-de979bebdcb929eb3fda.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/sobre/page-data.json>; rel=preload; as=fetch; crossorigin
+/404.html
+  Link: </webpack-runtime-b26ce9208a1ca99e7253.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-999a01e9e4c894cffffe.js>; rel=preload; as=script
+  Link: </app-e43d14c71b147ab8f1be.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </commons-cf144f5912a5da243630.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-b68bd8f8cbdd8689d550.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin

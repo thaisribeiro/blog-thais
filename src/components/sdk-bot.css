@@ -1,0 +1,21 @@
+#sdk-bot {
+    position: absolute;
+    bottom: 0;
+}
+
+.avatar-container {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    width: 100%;
+    margin: 0 auto;
+    height: 500px;
+    position: relative;
+}
+
+.avatar-container picture img {
+    width: 85px !important;
+    height: 85px !important;
+    border-radius: 0 !important;
+    box-shadow: #c1b7b7 -4px 40px 25px -23px;
+}

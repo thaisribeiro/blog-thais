@@ -1,0 +1,99 @@
+.avatar-container {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    width: 100%;
+    margin: 0 auto;
+    height: 500px;
+    position: relative;
+}
+
+.avatar-container-new {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    width: 100%;
+    margin: 0 auto;
+    height: 200px;
+    position: relative;
+}
+
+.rcw-widget-container {
+    position: absolute
+}
+
+.rcw-launcher {
+    background-color: #E1C340;
+    box-shadow: 0 2px 10px 1px #53565a;
+}
+
+.rcw-conversation-container .rcw-header {
+    background-color: #E1C340;
+    border-radius: 10px 10px 0 0;
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 1px 0px 0px;
+}
+
+.rcw-response {
+    background-color: rgb(228, 228, 228);
+}
+
+.rcw-client, .rcw-response {
+    border-radius: 10px;
+    padding: 5px;
+    max-width: 200px;
+    text-align: left;
+}
+
+.rcw-client {
+    background-color: #cfffaa;
+    margin-left: auto;
+}
+
+.rcw-message-text p {
+    font-size: 15px
+}
+
+.rcw-messages-container {
+    height: 35vh;
+}
+
+.quick-button {
+    border-radius: 9px;
+    border: 2px solid #e0c23f;
+}
+
+.quick-button:active {
+    background: #e0c23f;
+    color: #151828;
+}
+
+.quick-button:hover {
+    background: #e0c23f;
+    color: #151828;
+}
+
+.quick-button:focus {
+    background: #e0c23f;
+    color: #151828;
+}
+
+.quick-buttons-container .quick-buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 800px) {
+    .rcw-conversation-container .rcw-close-button {
+        background-color: #e0c23f;
+        border: 0;
+        display: block;
+        position: absolute;
+        right: 10px;
+        top: 20px;
+        width: 40px;
+    }
+}
